@@ -21,3 +21,4 @@
 - git diff: show current changes
 - git checkout: checkout specific version, create branch
 - git branch: list branches, create branch
+- git merge: merge changes from other branch
