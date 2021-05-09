@@ -22,3 +22,5 @@
 - git checkout: checkout specific version, create branch
 - git branch: list branches, create branch
 - git merge: merge changes from other branch
+- git remote: configure remote
+_ git push: changes to remote
