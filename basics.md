@@ -19,3 +19,5 @@
 - git log: show commit history
 - git show: show commit content
 - git diff: show current changes
+- git checkout: checkout specific version, create branch
+- git branch: list branches, create branch
